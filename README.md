@@ -61,6 +61,13 @@ SOURCE: https://blog.bismart.com/en/classification-vs.-clustering-a-practical-ex
 
 
 ## 9. Neural Networks
+  Neural Networks or Artificial Neural Networks(ANN) are information processing model inspired by the biological nervous system. Neural Networks are formed by highly interconnected processing elements
+called neurons. Interconnections between the neurons are provided by the weights. ANN like people, learn by example. Neural Networks could be used to extract patterns and detect trends that are too complex
+to be noticed by either humans or other computer techniques. A simple neural network is shown in figure. Inputs x1, x2, ...xn are fed to the input unit, they are connected to the output units through 
+weights w1,w2, ..wn. Net input is calculated as sum of product of inputs and their weights yin = x1w1 + x2w2 +...xnwn. Activation function applied over net input will produce the output . 
+![alt tag](https://bit.ly/3e7xJ6k)
+More layers are added between input layer and output layer to increase accuracy and they are called hidden layers.
+![alt tag](https://bit.ly/3e7g0vP)
 ## 10. Linear Regression
 ## 11. Logistic Regression
 ## 12. PolynomialRegression
